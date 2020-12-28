@@ -4,16 +4,18 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: lins
+    url: https://lins.sensoro.com
+  - name: city
+    url: https://city.sensoro.com
+  - name: iot
+    url: https://iot.sensoro.com
+  - name: ai
+    url: https://ai.sensoro.com/
+  - name: vms
+    url: https://vms-api.sensoro.com/
+  - name: sensoro
+    url: https://www.sensoro.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
