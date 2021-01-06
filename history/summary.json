@@ -76,9 +76,9 @@
     "url": "https://vms-api.sensoro.com/",
     "icon": "https://favicons.githubusercontent.com/vms-api.sensoro.com",
     "slug": "vms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1003,
     "timeMonth": 1680,
     "timeYear": 1680,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-06": 0
+    }
   },
   {
     "name": "sensoro",
