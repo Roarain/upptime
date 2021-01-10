@@ -40,9 +40,9 @@
     "url": "https://iot.sensoro.com",
     "icon": "https://favicons.githubusercontent.com/iot.sensoro.com",
     "slug": "iot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1159,
     "timeMonth": 1003,
     "timeYear": 1003,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-10": 0
+    }
   },
   {
     "name": "ai",
@@ -77,11 +79,11 @@
     "icon": "https://favicons.githubusercontent.com/vms-api.sensoro.com",
     "slug": "vms",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 1542,
     "timeDay": 1964,
     "timeWeek": 1041,
