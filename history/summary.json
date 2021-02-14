@@ -40,18 +40,20 @@
     "url": "https://iot.sensoro.com",
     "icon": "https://favicons.githubusercontent.com/iot.sensoro.com",
     "slug": "iot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1346,
     "timeDay": 1278,
-    "timeWeek": 1277,
+    "timeWeek": 1114,
     "timeMonth": 1349,
     "timeYear": 1346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-14": 0
+    }
   },
   {
     "name": "ai",
