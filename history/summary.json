@@ -4,19 +4,19 @@
     "url": "https://lins.sensoro.com",
     "icon": "https://favicons.githubusercontent.com/lins.sensoro.com",
     "slug": "lins",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 792,
-    "timeWeek": 895,
-    "timeMonth": 1001,
-    "timeYear": 987,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1013,
+    "timeDay": 1684,
+    "timeWeek": 1082,
+    "timeMonth": 1049,
+    "timeYear": 1013,
     "dailyMinutesDown": {
-      "2021-02-26": 1
+      "2021-02-26": 5
     }
   },
   {
