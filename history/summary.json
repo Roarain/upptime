@@ -6,17 +6,16 @@
     "slug": "lins",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 909,
-    "timeDay": 752,
+    "timeDay": 642,
     "timeWeek": 729,
-    "timeMonth": 852,
-    "timeYear": 901,
+    "timeMonth": 844,
+    "timeYear": 900,
     "dailyMinutesDown": {
-      "2022-06-24": 15,
       "2022-06-21": 41,
       "2022-06-14": 21,
       "2022-05-10": 17,
@@ -35,8 +34,7 @@
       "2021-07-11": 43,
       "2021-07-10": 35,
       "2021-07-09": 15,
-      "2021-07-04": 16,
-      "2021-06-25": 22
+      "2021-07-04": 16
     }
   },
   {
@@ -51,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 899,
-    "timeDay": 1231,
-    "timeWeek": 947,
-    "timeMonth": 924,
-    "timeYear": 876,
+    "timeDay": 1000,
+    "timeWeek": 977,
+    "timeMonth": 923,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2022-05-18": 111
     }
@@ -65,18 +63,17 @@
     "icon": "https://favicons.githubusercontent.com/iot.sensoro.com",
     "slug": "iot",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1149,
-    "timeDay": 981,
-    "timeWeek": 910,
-    "timeMonth": 956,
-    "timeYear": 1140,
+    "time": 1146,
+    "timeDay": 787,
+    "timeWeek": 907,
+    "timeMonth": 946,
+    "timeYear": 1138,
     "dailyMinutesDown": {
-      "2022-06-24": 14,
       "2022-04-06": 16,
       "2022-04-03": 73,
       "2022-01-10": 32,
@@ -102,10 +99,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.86%",
     "time": 804,
-    "timeDay": 799,
-    "timeWeek": 625,
-    "timeMonth": 721,
-    "timeYear": 812,
+    "timeDay": 563,
+    "timeWeek": 621,
+    "timeMonth": 713,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2022-06-21": 41,
       "2022-05-05": 23,
@@ -120,8 +117,7 @@
       "2021-07-11": 68,
       "2021-07-10": 90,
       "2021-07-09": 34,
-      "2021-07-04": 16,
-      "2021-06-25": 21
+      "2021-07-04": 16
     }
   },
   {
@@ -131,17 +127,16 @@
     "slug": "vms",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.80%",
-    "time": 918,
-    "timeDay": 729,
-    "timeWeek": 674,
-    "timeMonth": 865,
-    "timeYear": 850,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.81%",
+    "time": 914,
+    "timeDay": 588,
+    "timeWeek": 673,
+    "timeMonth": 801,
+    "timeYear": 849,
     "dailyMinutesDown": {
-      "2022-06-24": 13,
       "2022-04-19": 18,
       "2022-03-21": 29,
       "2022-03-01": 34,
@@ -156,8 +151,7 @@
       "2021-07-10": 95,
       "2021-07-09": 18,
       "2021-07-04": 15,
-      "2021-07-02": 56,
-      "2021-06-25": 21
+      "2021-07-02": 56
     }
   },
   {
@@ -171,10 +165,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 868,
-    "timeDay": 1179,
-    "timeWeek": 905,
-    "timeMonth": 870,
+    "time": 867,
+    "timeDay": 904,
+    "timeWeek": 934,
+    "timeMonth": 867,
     "timeYear": 845,
     "dailyMinutesDown": {
       "2022-05-18": 111
