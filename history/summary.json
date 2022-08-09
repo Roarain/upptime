@@ -4,9 +4,9 @@
     "url": "https://lins.sensoro.com",
     "icon": "https://favicons.githubusercontent.com/lins.sensoro.com",
     "slug": "lins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 1216,
     "timeYear": 884,
     "dailyMinutesDown": {
+      "2022-08-09": 0,
       "2022-08-06": 34,
       "2022-07-04": 30,
       "2022-07-03": 23,
@@ -96,7 +97,7 @@
     "time": 817,
     "timeDay": 754,
     "timeWeek": 715,
-    "timeMonth": 1005,
+    "timeMonth": 1011,
     "timeYear": 785,
     "dailyMinutesDown": {
       "2022-08-06": 79,
@@ -125,7 +126,7 @@
     "time": 861,
     "timeDay": 737,
     "timeWeek": 792,
-    "timeMonth": 1051,
+    "timeMonth": 1055,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2022-07-02": 20,
