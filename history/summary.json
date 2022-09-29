@@ -143,18 +143,19 @@
     "url": "https://www.sensoro.com/",
     "icon": "https://favicons.githubusercontent.com/www.sensoro.com",
     "slug": "sensoro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.03%",
+    "uptimeDay": "98.02%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 922,
+    "time": 923,
     "timeDay": 1281,
     "timeWeek": 1295,
     "timeMonth": 1329,
     "timeYear": 944,
     "dailyMinutesDown": {
+      "2022-09-29": 0,
       "2022-09-28": 28,
       "2022-05-18": 111
     }
