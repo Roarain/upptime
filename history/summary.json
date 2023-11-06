@@ -123,19 +123,19 @@
     "url": "https://www.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sensoro.com.ico",
     "slug": "sensoro",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1175,
-    "timeDay": 1378,
-    "timeWeek": 1250,
-    "timeMonth": 1190,
+    "timeDay": 1326,
+    "timeWeek": 1253,
+    "timeMonth": 1193,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2023-11-06": 0
+      "2023-11-06": 8
     }
   }
 ]
