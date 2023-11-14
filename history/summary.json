@@ -82,10 +82,10 @@
     "url": "https://ai.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ai.sensoro.com.ico",
     "slug": "ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 913,
@@ -94,6 +94,7 @@
     "timeMonth": 904,
     "timeYear": 933,
     "dailyMinutesDown": {
+      "2023-11-14": 2,
       "2023-09-24": 22
     }
   },
@@ -102,18 +103,19 @@
     "url": "https://vms-api.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vms-api.sensoro.com.ico",
     "slug": "vms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 918,
+    "time": 917,
     "timeDay": 633,
     "timeWeek": 713,
     "timeMonth": 870,
     "timeYear": 915,
     "dailyMinutesDown": {
+      "2023-11-14": 0,
       "2023-09-24": 22,
       "2022-11-23": 19
     }
