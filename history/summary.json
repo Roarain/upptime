@@ -4,10 +4,10 @@
     "url": "https://lins.sensoro.com",
     "icon": "https://icons.duckduckgo.com/ip3/lins.sensoro.com.ico",
     "slug": "lins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 959,
@@ -16,6 +16,7 @@
     "timeMonth": 926,
     "timeYear": 943,
     "dailyMinutesDown": {
+      "2023-11-19": 1,
       "2023-09-24": 22,
       "2022-11-25": 17
     }
@@ -45,17 +46,16 @@
     "slug": "iot",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.83%",
     "time": 1376,
     "timeDay": 2239,
     "timeWeek": 1698,
     "timeMonth": 1759,
     "timeYear": 1447,
     "dailyMinutesDown": {
-      "2023-11-19": 11,
       "2023-10-30": 34,
       "2023-10-13": 20,
       "2023-09-19": 34,
@@ -124,9 +124,9 @@
     "url": "https://www.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sensoro.com.ico",
     "slug": "sensoro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -135,6 +135,8 @@
     "timeWeek": 1143,
     "timeMonth": 1143,
     "timeYear": 1164,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-19": 0
+    }
   }
 ]
