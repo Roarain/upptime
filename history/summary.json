@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 961,
-    "timeDay": 1090,
-    "timeWeek": 900,
-    "timeMonth": 914,
-    "timeYear": 945,
+    "timeDay": 925,
+    "timeWeek": 916,
+    "timeMonth": 909,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2023-09-24": 22
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1231,
-    "timeDay": 1098,
-    "timeWeek": 1164,
-    "timeMonth": 1177,
+    "timeDay": 1103,
+    "timeWeek": 1155,
+    "timeMonth": 1176,
     "timeYear": 1236,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.83%",
     "time": 1378,
-    "timeDay": 1364,
-    "timeWeek": 1746,
-    "timeMonth": 1748,
-    "timeYear": 1448,
+    "timeDay": 1263,
+    "timeWeek": 1540,
+    "timeMonth": 1753,
+    "timeYear": 1449,
     "dailyMinutesDown": {
       "2023-10-30": 34,
       "2023-10-13": 20,
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 728,
-    "timeWeek": 891,
-    "timeMonth": 891,
-    "timeYear": 939,
+    "time": 897,
+    "timeDay": 767,
+    "timeWeek": 870,
+    "timeMonth": 880,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2023-09-24": 22
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 780,
-    "timeWeek": 872,
-    "timeMonth": 868,
-    "timeYear": 920,
+    "time": 907,
+    "timeDay": 748,
+    "timeWeek": 882,
+    "timeMonth": 866,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2023-09-24": 22
     }
@@ -127,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1170,
-    "timeDay": 1289,
-    "timeWeek": 1163,
-    "timeMonth": 1132,
-    "timeYear": 1165,
+    "time": 1171,
+    "timeDay": 971,
+    "timeWeek": 1132,
+    "timeMonth": 1126,
+    "timeYear": 1166,
     "dailyMinutesDown": {}
   }
 ]
