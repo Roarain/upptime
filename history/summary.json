@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 1130,
+    "time": 936,
+    "timeDay": 1024,
     "timeWeek": 1062,
     "timeMonth": 970,
-    "timeYear": 954,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2023-09-24": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1229,
-    "timeDay": 1407,
-    "timeWeek": 1350,
-    "timeMonth": 1233,
-    "timeYear": 1244,
+    "time": 1230,
+    "timeDay": 1553,
+    "timeWeek": 1377,
+    "timeMonth": 1230,
+    "timeYear": 1245,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iot.sensoro.com.ico",
     "slug": "iot",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.82%",
     "time": 1391,
-    "timeDay": 1371,
-    "timeWeek": 1213,
-    "timeMonth": 1168,
-    "timeYear": 1451,
+    "timeDay": 1417,
+    "timeWeek": 1226,
+    "timeMonth": 1178,
+    "timeYear": 1452,
     "dailyMinutesDown": {
       "2023-12-04": 22,
       "2023-10-30": 34,
@@ -88,10 +88,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 909,
-    "timeDay": 943,
-    "timeWeek": 1013,
-    "timeMonth": 916,
+    "time": 910,
+    "timeDay": 1201,
+    "timeWeek": 1020,
+    "timeMonth": 911,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2023-09-24": 22
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 914,
-    "timeDay": 1114,
-    "timeWeek": 1027,
-    "timeMonth": 1065,
-    "timeYear": 939,
+    "time": 915,
+    "timeDay": 1029,
+    "timeWeek": 1013,
+    "timeMonth": 1066,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2023-09-24": 22
     }
@@ -129,10 +129,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1167,
-    "timeDay": 1413,
-    "timeWeek": 1229,
-    "timeMonth": 1176,
-    "timeYear": 1174,
+    "timeDay": 1316,
+    "timeWeek": 1236,
+    "timeMonth": 1171,
+    "timeYear": 1175,
     "dailyMinutesDown": {}
   }
 ]
