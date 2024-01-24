@@ -1,7 +1,7 @@
 url: https://vms-api.sensoro.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-24T10:48:30.279Z
+status: up
+code: 200
+responseTime: 607
+lastUpdated: 2024-01-24T11:53:09.572Z
 startTime: 2020-12-28T09:05:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
