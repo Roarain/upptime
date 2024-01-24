@@ -4,19 +4,19 @@
     "url": "https://lins.sensoro.com",
     "icon": "https://icons.duckduckgo.com/ip3/lins.sensoro.com.ico",
     "slug": "lins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 939,
+    "time": 938,
     "timeDay": 1149,
     "timeWeek": 1004,
     "timeMonth": 979,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2024-01-24": 17,
+      "2024-01-24": 19,
       "2023-09-24": 22
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://city.sensoro.com",
     "icon": "https://icons.duckduckgo.com/ip3/city.sensoro.com.ico",
     "slug": "city",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1224,
     "timeDay": 1241,
@@ -37,7 +37,7 @@
     "timeMonth": 1269,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2024-01-24": 23
+      "2024-01-24": 18
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://ai.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ai.sensoro.com.ico",
     "slug": "ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 914,
+    "time": 912,
     "timeDay": 1046,
     "timeWeek": 942,
     "timeMonth": 944,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2024-01-24": 37,
+      "2024-01-24": 38,
       "2023-09-24": 22
     }
   },
@@ -108,9 +108,9 @@
     "slug": "vms",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 921,
     "timeDay": 1977,
@@ -118,7 +118,7 @@
     "timeMonth": 997,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2024-01-24": 37,
+      "2024-01-24": 46,
       "2023-09-24": 22
     }
   },
@@ -129,9 +129,9 @@
     "slug": "sensoro",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 1155,
     "timeDay": 1150,
@@ -139,7 +139,7 @@
     "timeMonth": 1172,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2024-01-24": 37
+      "2024-01-24": 45
     }
   }
 ]
