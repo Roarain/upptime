@@ -4,19 +4,19 @@
     "url": "https://lins.sensoro.com",
     "icon": "https://icons.duckduckgo.com/ip3/lins.sensoro.com.ico",
     "slug": "lins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 939,
     "timeDay": 1352,
     "timeWeek": 1036,
     "timeMonth": 986,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2024-01-24": 7,
+      "2024-01-24": 2,
       "2023-09-24": 22
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://city.sensoro.com",
     "icon": "https://icons.duckduckgo.com/ip3/city.sensoro.com.ico",
     "slug": "city",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1225,
+    "time": 1224,
     "timeDay": 1188,
     "timeWeek": 1229,
     "timeMonth": 1267,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2024-01-24": 7
+      "2024-01-24": 2
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://ai.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ai.sensoro.com.ico",
     "slug": "ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 913,
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 914,
     "timeDay": 1097,
     "timeWeek": 942,
     "timeMonth": 944,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2024-01-24": 6,
+      "2024-01-24": 1,
       "2023-09-24": 22
     }
   },
@@ -106,19 +106,19 @@
     "url": "https://vms-api.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vms-api.sensoro.com.ico",
     "slug": "vms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 921,
     "timeDay": 1977,
     "timeWeek": 1183,
     "timeMonth": 997,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2024-01-24": 6,
+      "2024-01-24": 1,
       "2023-09-24": 22
     }
   },
@@ -127,11 +127,11 @@
     "url": "https://www.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sensoro.com.ico",
     "slug": "sensoro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1155,
     "timeDay": 1150,
@@ -139,7 +139,7 @@
     "timeMonth": 1172,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2024-01-24": 6
+      "2024-01-24": 0
     }
   }
 ]
