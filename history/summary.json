@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 957,
-    "timeDay": 1054,
+    "timeDay": 956,
     "timeWeek": 1020,
-    "timeMonth": 1012,
-    "timeYear": 983,
+    "timeMonth": 1024,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2024-01-24": 92,
       "2023-09-24": 22
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1247,
-    "timeDay": 1256,
-    "timeWeek": 1263,
-    "timeMonth": 1275,
-    "timeYear": 1268,
+    "timeDay": 1230,
+    "timeWeek": 1260,
+    "timeMonth": 1286,
+    "timeYear": 1269,
     "dailyMinutesDown": {
       "2024-01-24": 91
     }
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1452,
-    "timeDay": 1292,
-    "timeWeek": 3313,
-    "timeMonth": 1792,
-    "timeYear": 1519,
+    "timeDay": 1325,
+    "timeWeek": 1199,
+    "timeMonth": 1800,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2023-12-04": 22,
       "2023-10-30": 34,
@@ -83,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 945,
-    "timeDay": 881,
-    "timeWeek": 935,
-    "timeMonth": 982,
+    "timeDay": 769,
+    "timeWeek": 920,
+    "timeMonth": 981,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2024-01-24": 110,
@@ -104,10 +104,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 943,
-    "timeDay": 943,
-    "timeWeek": 977,
-    "timeMonth": 960,
-    "timeYear": 959,
+    "timeDay": 875,
+    "timeWeek": 969,
+    "timeMonth": 967,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2024-01-24": 118,
       "2023-09-24": 22
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1178,
-    "timeDay": 1082,
-    "timeWeek": 1209,
-    "timeMonth": 1228,
-    "timeYear": 1192,
+    "time": 1179,
+    "timeDay": 1240,
+    "timeWeek": 1201,
+    "timeMonth": 1239,
+    "timeYear": 1194,
     "dailyMinutesDown": {
       "2024-01-24": 116
     }
