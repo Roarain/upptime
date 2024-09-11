@@ -25,18 +25,19 @@
     "url": "https://city.sensoro.com",
     "icon": "https://icons.duckduckgo.com/ip3/city.sensoro.com.ico",
     "slug": "city",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1274,
+    "time": 1273,
     "timeDay": 1183,
     "timeWeek": 1242,
     "timeMonth": 1307,
     "timeYear": 1266,
     "dailyMinutesDown": {
+      "2024-09-11": 0,
       "2024-01-24": 91
     }
   },
@@ -94,9 +95,9 @@
     "url": "https://vms-api.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vms-api.sensoro.com.ico",
     "slug": "vms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -106,6 +107,7 @@
     "timeMonth": 1113,
     "timeYear": 1028,
     "dailyMinutesDown": {
+      "2024-09-11": 0,
       "2024-01-24": 118,
       "2023-09-24": 22
     }
