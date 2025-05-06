@@ -34,7 +34,7 @@
     "timeMonth": 930,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2025-05-06": 238,
+      "2025-05-06": 259,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
@@ -339,19 +339,19 @@
     "url": "https://www.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sensoro.com.ico",
     "slug": "sensoro",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1061,
-    "timeDay": 1032,
-    "timeWeek": 956,
-    "timeMonth": 872,
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1062,
+    "timeDay": 1088,
+    "timeWeek": 983,
+    "timeMonth": 882,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2025-05-06": 0,
+      "2025-05-06": 22,
       "2024-09-19": 20
     }
   }
