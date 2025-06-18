@@ -4,18 +4,20 @@
     "url": "https://lins.sensoro.com",
     "icon": "https://icons.duckduckgo.com/ip3/lins.sensoro.com.ico",
     "slug": "lins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 995,
+    "time": 994,
     "timeDay": 927,
     "timeWeek": 902,
     "timeMonth": 904,
     "timeYear": 987,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-18": 2
+    }
   },
   {
     "name": "city",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/city.sensoro.com.ico",
     "slug": "city",
     "status": "down",
-    "uptime": "82.86%",
+    "uptime": "82.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.40%",
+    "uptimeYear": "23.21%",
     "time": 1087,
     "timeDay": 860,
     "timeWeek": 924,
     "timeMonth": 934,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2025-06-18": 58,
+      "2025-06-18": 1064,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
@@ -345,27 +347,29 @@
     "url": "https://ai.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ai.sensoro.com.ico",
     "slug": "ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1074,
+    "time": 1075,
     "timeDay": 1067,
     "timeWeek": 1060,
     "timeMonth": 1129,
     "timeYear": 1114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-18": 1
+    }
   },
   {
     "name": "vms",
     "url": "https://vms-api.sensoro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vms-api.sensoro.com.ico",
     "slug": "vms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -375,6 +379,7 @@
     "timeMonth": 888,
     "timeYear": 945,
     "dailyMinutesDown": {
+      "2025-06-18": 0,
       "2025-04-29": 84,
       "2025-04-28": 2
     }
