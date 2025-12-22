@@ -1,7 +1,7 @@
 url: https://iot.sensoro.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-12-22T18:48:08.566Z
+status: up
+code: 200
+responseTime: 920
+lastUpdated: 2025-12-22T19:20:33.578Z
 startTime: 2020-12-28T09:05:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
