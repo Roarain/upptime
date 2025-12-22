@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/city.sensoro.com.ico",
     "slug": "city",
     "status": "down",
-    "uptime": "74.33%",
+    "uptime": "74.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -38,7 +38,7 @@
     "timeMonth": 1006,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2025-12-22": 861,
+      "2025-12-22": 942,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
@@ -410,14 +410,14 @@
     "url": "https://iot.sensoro.com",
     "icon": "https://icons.duckduckgo.com/ip3/iot.sensoro.com.ico",
     "slug": "iot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "44.01%",
+    "uptimeDay": "44.66%",
     "uptimeWeek": "52.76%",
     "uptimeMonth": "89.13%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.01%",
     "time": 1026,
-    "timeDay": 918,
+    "timeDay": 912,
     "timeWeek": 933,
     "timeMonth": 957,
     "timeYear": 967,
@@ -433,8 +433,7 @@
       "2025-10-17": 16,
       "2025-09-02": 165,
       "2025-09-01": 219,
-      "2025-08-19": 56,
-      "2025-05-29": 18
+      "2025-08-19": 56
     }
   },
   {
