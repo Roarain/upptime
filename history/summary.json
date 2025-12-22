@@ -38,7 +38,7 @@
     "timeMonth": 1006,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2025-12-22": 1011,
+      "2025-12-22": 1068,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
@@ -410,14 +410,14 @@
     "url": "https://iot.sensoro.com",
     "icon": "https://icons.duckduckgo.com/ip3/iot.sensoro.com.ico",
     "slug": "iot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "46.29%",
+    "uptimeDay": "49.16%",
     "uptimeWeek": "52.55%",
     "uptimeMonth": "89.08%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.01%",
     "time": 1025,
-    "timeDay": 905,
+    "timeDay": 906,
     "timeWeek": 931,
     "timeMonth": 954,
     "timeYear": 966,
@@ -432,8 +432,7 @@
       "2025-12-15": 25,
       "2025-10-17": 16,
       "2025-09-02": 165,
-      "2025-09-01": 219,
-      "2025-08-19": 56
+      "2025-09-01": 219
     }
   },
   {
