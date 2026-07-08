@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1033,
-    "timeDay": 884,
-    "timeWeek": 1435,
-    "timeMonth": 1460,
+    "timeDay": 715,
+    "timeWeek": 1241,
+    "timeMonth": 1440,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2025-08-19": 63
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/city.sensoro.com.ico",
     "slug": "city",
     "status": "down",
-    "uptime": "67.08%",
+    "uptime": "67.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 973,
-    "timeDay": 805,
-    "timeWeek": 830,
-    "timeMonth": 939,
+    "timeDay": 703,
+    "timeWeek": 836,
+    "timeMonth": 937,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2026-07-07": 127,
+      "2026-07-08": 108,
+      "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -399,8 +400,7 @@
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
-      "2025-07-09": 1440,
-      "2025-07-08": 1440
+      "2025-07-09": 1440
     }
   },
   {
@@ -415,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 1011,
-    "timeDay": 1177,
-    "timeWeek": 1135,
-    "timeMonth": 1184,
+    "timeDay": 828,
+    "timeWeek": 1058,
+    "timeMonth": 1181,
     "timeYear": 1033,
     "dailyMinutesDown": {
       "2025-12-17": 620,
@@ -451,11 +451,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1172,
-    "timeDay": 1045,
-    "timeWeek": 1161,
-    "timeMonth": 1346,
-    "timeYear": 1192,
+    "time": 1173,
+    "timeDay": 1620,
+    "timeWeek": 1253,
+    "timeMonth": 1359,
+    "timeYear": 1193,
     "dailyMinutesDown": {
       "2025-08-19": 63
     }
@@ -471,11 +471,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 940,
-    "timeDay": 793,
-    "timeWeek": 913,
-    "timeMonth": 1021,
-    "timeYear": 958,
+    "time": 942,
+    "timeDay": 1751,
+    "timeWeek": 1031,
+    "timeMonth": 1050,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2025-08-19": 63
     }
@@ -492,9 +492,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 991,
-    "timeDay": 1352,
-    "timeWeek": 994,
-    "timeMonth": 1207,
+    "timeDay": 873,
+    "timeWeek": 995,
+    "timeMonth": 1132,
     "timeYear": 1024,
     "dailyMinutesDown": {
       "2025-07-11": 102,
